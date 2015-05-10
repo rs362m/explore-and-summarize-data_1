@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1431279643936.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "387A4EA8",
+    "lastKnownWriteTime" : 643920993,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "LoanData",
+        "contentUrl" : "content?title=LoanData&file=2a67381218bb43a692004e5110993280.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 21,
+        "totalObservations" : 113937,
+        "variables" : 21
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
